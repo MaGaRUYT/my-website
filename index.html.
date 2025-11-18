@@ -1,0 +1,100 @@
+<div style="background: linear-gradient(135deg, #1a2a3a 0%, #2c3e50 100%); padding: 20px; font-family: Segoe UI, Tahoma, sans-serif; color:#333;">
+<div style="max-width:900px; margin:auto;">
+
+<div style="background:#2c3e50; color:white; padding:25px; border-radius:8px 8px 0 0; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+    <h1 style="font-size:30px; margin-bottom:10px; border-bottom:2px solid #3498db; padding-bottom:10px;">Введение в эпоху Николая I</h1>
+    <p style="font-size:17px; color:#ecf0f1;">1825–1855 гг. — время консервативного курса, милитаризации управления и попыток стабилизировать империю в условиях внешних и внутренних вызовов.</p>
+</div>
+
+<div style="background:white; padding:35px; border-radius:0 0 8px 8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+
+<h2 style="color:#2c3e50; border-bottom:1px solid #ecf0f1; padding-bottom:8px; margin:30px 0 15px;">Начало правления</h2>
+
+<p style="margin-bottom:18px; text-align:justify;">Вступление Николая I на престол стало одним из самых драматичных в истории Российской империи. Накануне его официального принятия власти страна оказалась втянута в кризис династической неопределённости...</p>
+
+<p style="margin-bottom:18px; text-align:justify;">На фоне этой нестабильности произошёл выступление декабристов — первая попытка организованного политического переворота...</p>
+
+<div style="background:#e8f4fc; border-left:4px solid #2980b9; padding:22px; margin:25px 0; border-radius:4px; font-style:italic;">
+    <p>"Революция на пороге России, но, клянусь, она не проникнет в неё, пока во мне сохранится дыхание жизни."</p>
+    <p style="text-align:right; font-weight:bold; color:#7f8c8d;">Николай I</p>
+</div>
+
+<p style="margin-bottom:18px; text-align:justify;">Столкнувшись в свои первые дни правления с угрожающим вызовом...</p>
+
+<h2 style="color:#2c3e50; border-bottom:1px solid #ecf0f1; padding-bottom:8px; margin:30px 0 15px;">Основные черты правления</h2>
+
+<p style="margin-bottom:18px; text-align:justify;">Ниже представлены ключевые характеристики политики Николая I...</p>
+
+<div style="display:flex; flex-direction:column; gap:25px; margin:20px 0;">
+
+<div style="background:#f8f9fa; border-left:4px solid #3498db; padding:25px; border-radius:4px;">
+    <h3 style="color:#2c3e50; margin-bottom:12px;">Укрепление самодержавной власти</h3>
+    <p style="margin-bottom:18px; text-align:justify;">Николай I рассматривал самодержавие как краеугольный принцип...</p>
+    <p style="margin-bottom:18px; text-align:justify;">Он усилил роль Собственной Его Императорского Величества Канцелярии...</p>
+</div>
+
+<div style="background:#f8f9fa; border-left:4px solid #3498db; padding:25px; border-radius:4px;">
+    <h3 style="color:#2c3e50; margin-bottom:12px;">Централизация управления</h3>
+    <p style="margin-bottom:18px; text-align:justify;">Император стремился минимизировать влияние региональной администрации...</p>
+    <p style="margin-bottom:18px; text-align:justify;">При Николае I усилилось значение отчётности и регулярных докладов...</p>
+</div>
+
+<div style="background:#f8f9fa; border-left:4px solid #3498db; padding:25px; border-radius:4px;">
+    <h3 style="color:#2c3e50; margin-bottom:12px;">Бюрократизация государственного аппарата</h3>
+    <p style="margin-bottom:18px; text-align:justify;">Количество чиновников заметно увеличилось...</p>
+    <p style="margin-bottom:18px; text-align:justify;">Формировалась культура «канцелярского порядка»...</p>
+</div>
+
+<div style="background:#f8f9fa; border-left:4px solid #3498db; padding:25px; border-radius:4px;">
+    <h3 style="color:#2c3e50; margin-bottom:12px;">Усиление полицейского контроля</h3>
+    <p style="margin-bottom:18px; text-align:justify;">III Отделение стало ключевым органом политического надзора...</p>
+    <p style="margin-bottom:18px; text-align:justify;">Это привело к ужесточению цензуры и расширению полномочий полиции.</p>
+</div>
+
+</div>
+
+<h2 style="color:#2c3e50; border-bottom:1px solid #ecf0f1; padding-bottom:8px; margin:30px 0 15px;">Ключевые события начала правления</h2>
+
+<div>
+
+<div style="display:flex; margin-bottom:25px;">
+    <div style="background:#3498db; color:white; padding:10px 15px; border-radius:4px; font-weight:bold; min-width:100px; text-align:center; margin-right:20px;">1825</div>
+    <div>
+        <h3 style="color:#2c3e50;">Восстание декабристов</h3>
+        <p style="margin-bottom:18px; text-align:justify;">Организованное группами офицеров-реформаторов...</p>
+    </div>
+</div>
+
+<div style="display:flex; margin-bottom:25px;">
+    <div style="background:#3498db; color:white; padding:10px 15px; border-radius:4px; font-weight:bold; min-width:100px; text-align:center; margin-right:20px;">1826</div>
+    <div>
+        <h3 style="color:#2c3e50;">Создание III Отделения</h3>
+        <p style="margin-bottom:18px; text-align:justify;">III Отделение и Корпус жандармов стали главными репрессивными инструментами...</p>
+    </div>
+</div>
+
+<div style="display:flex; margin-bottom:25px;">
+    <div style="background:#3498db; color:white; padding:10px 15px; border-radius:4px; font-weight:bold; min-width:100px; text-align:center; margin-right:20px;">1826</div>
+    <div>
+        <h3 style="color:#2c3e50;">Следствие и суд над декабристами</h3>
+        <p style="margin-bottom:18px; text-align:justify;">Следствие длилось более полугода...</p>
+    </div>
+</div>
+
+<div style="display:flex; margin-bottom:25px;">
+    <div style="background:#3498db; color:white; padding:10px 15px; border-radius:4px; font-weight:bold; min-width:100px; text-align:center; margin-right:20px;">1827–1828</div>
+    <div>
+        <h3 style="color:#2c3e50;">Реформирование армии</h3>
+        <p style="margin-bottom:18px; text-align:justify;">Николай придавал армии ключевое значение...</p>
+    </div>
+</div>
+
+</div>
+
+<div style="display:flex; justify-content:space-between; margin-top:30px; padding-top:20px; border-top:1px solid #ecf0f1;">
+    <div style="background:#95a5a6; color:white; padding:12px 25px; border-radius:4px; font-size:16px;">← Назад к содержанию курса</div>
+    <div style="background:#3498db; color:white; padding:12px 25px; border-radius:4px; font-size:16px;">Далее: Реформы Николая I →</div>
+</div>
+
+</div>
+</div>
